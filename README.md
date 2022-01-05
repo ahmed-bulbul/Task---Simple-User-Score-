@@ -12,6 +12,12 @@ After Running the project Four User and UserProgress auto created
 Step 4:  Adding User Request API
 ![image](https://user-images.githubusercontent.com/70557643/148156301-86696c25-c436-4fcb-9d03-d2ca7eee8bdc.png) </br>
 
+Step5: Adding UserProgress
+![image](https://user-images.githubusercontent.com/70557643/148156542-daf4ac78-6e90-4416-b504-a480911c0727.png) </br>
+
+
+
+
 
 
 
