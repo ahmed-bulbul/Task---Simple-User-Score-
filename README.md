@@ -20,6 +20,10 @@ You can also update the user and userProgress just checking the endpoint </br>
 Step6 : LeaderBoard Operation --> Get Top Ten Users By their score
 ![image](https://user-images.githubusercontent.com/70557643/148156755-d6a9b9b4-efb7-4a6c-87f8-9b1162ef201c.png) </br>
 
+Step7: Get Userwise rand by user id 
+![image](https://user-images.githubusercontent.com/70557643/148156848-b840436e-2e22-4e55-9b54-c92dfde868d0.png)
+
+
 
 
 
