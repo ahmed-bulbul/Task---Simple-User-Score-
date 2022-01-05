@@ -15,6 +15,12 @@ Step 4:  Adding User Request API
 Step5: Adding UserProgress
 ![image](https://user-images.githubusercontent.com/70557643/148156542-daf4ac78-6e90-4416-b504-a480911c0727.png) </br>
 
+You can also update the user and userProgress just checking the endpoint </br>
+
+Step6 : LeaderBoard Operation --> Get Top Ten Users By their score
+![image](https://user-images.githubusercontent.com/70557643/148156755-d6a9b9b4-efb7-4a6c-87f8-9b1162ef201c.png) </br>
+
+
 
 
 
